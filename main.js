@@ -8,4 +8,5 @@ let firstName = "Ashish";
 let lastName = "Nehra";
 let fullName = firstName + " " + lastName;
 console.log(fullName);
+
 console.log(z);

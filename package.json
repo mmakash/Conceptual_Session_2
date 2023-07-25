@@ -1,0 +1,15 @@
+{
+  "name": "conceptual_session_2",
+  "version": "1.0.0",
+  "description": "Node.js Learnig",
+  "main": "main.js",
+  "scripts": {
+    "start-dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "MR Akash",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
